@@ -8,7 +8,7 @@ Repository to experiment with Learning Rate Range Test across different optimize
 ### Files
 
 - A0248330L.ipynb (Modified Jupyter notebook)
-- requirements.txt (Summarized with pip `freeze`)
+- requirements.txt (Summarized with `pip freeze`)
 
 ### Experiments
 
